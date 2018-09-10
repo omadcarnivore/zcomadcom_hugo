@@ -6,3 +6,4 @@ draft: true
 ---
 
 this is a test
+today is 09/10/2018 and the time is 2:27pm

@@ -1,0 +1,144 @@
+baseurl = "https://www.zcomad.com/blog/"
+languageCode = "en-us"
+title = "Zero Carb | One Meal A Day"
+theme = "hugo-strata-theme"
+#disqusShortname = "spf13"
+# Enable Google Analytics by inserting your tracking code
+googleAnalytics = "UA-125017103-1"
+# Define how many posts should appear on a site
+paginate = 10
+
+[params]
+	# To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+	name = "Zero Carb One Meal A Day"
+	description = "Zero Carb, One Meal A Day, Carnivore, Meat Eating, Eat to Live, Meat Heals"
+
+	# Format dates with Go's time formatting
+	date_format = "2018-09-01"
+
+	# Add read time estimates in the format "X min read"
+	show_read_time = false
+
+	# Add custom assets with their paths relative to the static folder
+	custom_js   = []
+	custom_css  = []
+
+
+	[params.sidebar]
+		# Replace the avatar with a picture of your own under static/images
+		avatar = "Zcomad_black.png"
+		# Use Markdown to format the string. This works nearly all over the theme
+		bio = "**Hello, my name is Trevor.** Follow me through a journey of self discovery as I eat one of the most controversal diets of 2018."
+		twitter = "https://twitter.com/ZCOMAD"
+		#github = ""
+		#gitlab = ""
+		#dribbble = ""
+		#facebook = ""
+		#googleplus = ""
+		#flickr = ""
+		#linkedin = ""
+
+		copyright = [
+			"&copy; zcomad.com",			
+		]
+
+
+	[params.about]
+		hide  = false
+		title = "Zero Carb | One Meal A Day"
+		content = "Come back on 09/03/2018 at which time I will release my first blog post detailing the very beginning of my journey as well as future plans with this lifestyle."
+
+
+	[params.portfolio]
+		hide  = false
+		title = "What is zcomad.com?"
+
+		# The images and thumbnails are stored under static/images
+		# Create and change subfolders as you like
+		[[params.portfolio.gallery]]
+			image = "fulls/01.jpg"
+			thumb = "thumbs/01.jpg"
+			title = "Eat like a carnivore!"
+			description = "Eat animals, satiate yourself!"
+
+		[[params.portfolio.gallery]]
+			image = "fulls/02.jpg"
+			thumb = "thumbs/02.jpg"
+			title = "Enjoy all the meats!"
+			description = "Skip the plants though!"
+
+		[[params.portfolio.gallery]]
+			image = "fulls/03.jpg"
+			thumb = "thumbs/03.jpg"
+			title = "Bring out your primal side!"
+			description = "Eat to live, don't live to eat!"
+
+		[[params.portfolio.gallery]]
+			image = "fulls/04.jpg"
+			thumb = "thumbs/04.jpg"
+			title = "Keep that meat bleu!"
+			description = "Eating cooked meat is pretty close to useless."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/05.jpg"
+			thumb = "thumbs/05.jpg"
+			title = "Just about a perfect dish."
+			description = "drop the green though ^_^."
+
+		[[params.portfolio.gallery]]
+			image = "fulls/06.jpg"
+			thumb = "thumbs/06.jpg"
+			title = "Don't forget the meat from the sea!"
+			description = "So many good nutrients in seafoods!"
+
+	[params.recentposts]
+		hide  = true
+		title = "Come back on 09/03/2018 at which time I will release my first blog post detailing the very beginning of my journey as well as future plans with this lifestyle."
+
+	[params.contact]
+		hide  = false
+		title = "Get In Touch"
+		content = "IF you have any questions about this site or what my intentions are feel free to e-mail me."
+
+		# This can be exact coordinates or a searchable address in google maps
+		#gmaps_address = "39.7889055,-120.5443524"
+		#address = [
+	#		"1234 Somewhere Rd.",
+	#		"Nashville, TN 00000",
+	#		"United States"
+	#	]
+	#	phone = "000-000-0000"
+
+		# Since this template is static, the contact form uses www.formspree.io as a
+		# proxy. The form makes a POST request to their servers to send the actual
+		# email. Visitors can send up to a 1000 emails each month for free.
+	    #
+	    # What you need to do for the setup?
+	    #
+	    # - set your email address under 'email' below
+	    # - upload the generated site to your server
+	    # - send a dummy email yourself to confirm your account
+	    # - click the confirm link in the email from www.formspree.io
+	    # - you're done. Happy mailing!
+		email = "contact@zcomad.com"
+
+		[params.contact.form]
+			# Set custom strings for the form if your native
+			# language isn't English
+			name = "Name"
+			email = "Email"
+			message = "Message"
+			submit = "Send message"
+
+
+# Menu links that appear on the left sidebar
+[[menu.main]]
+	name = "Home"
+	url  = "/"
+	weight = 10
+
+#[[menu.main]]
+#	name = "Blog"
+#	url  = "post/"
+#	weight = 0

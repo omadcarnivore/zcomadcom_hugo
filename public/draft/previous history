@@ -1,0 +1,11 @@
+---
+title: "Previous History"
+date: 2018-09-04T09:11:46-05:00
+draft: true
+---
+
+ Up until I was age 27 I never had a problem staying in shape.  It seemed I could go months without ever hitting the gym and still be pretty fit and when I did hit the gym I my body would respond really well.  I didn't really _follow the rules of fitness_ that people contastantly spout off these days.  I just would go in do some bro-splits and get results within 3 - 5 weeks, after which time I would get distracted stop going to the gym for a month or two at a time and then start over.   My issue was it was too easy to make those noobie gains and keep them for a while.  None of this takes into account that I never followed any diet, which honestly I think is a **good** thing. I would just go grab fastfood when I was hungry or in times of when I was broke I'd just eat raman, I really liked raman.  My real regret is I just wish I tried to eat more _healthy_, but as you'll find out soon eating healthy seems to be a matter of opinion.
+
+ During a stage in my life where I didn't have as easy access to funds I would go a day without eating or just eat a couple packages of ramen.  I may take some multi-vitamins or if I was lucky my girlfriend at the time would invite me over to her families house for some supper.  I didn't seem to struggle at all during this timeframe.  I maintained a weight of around 165lbs.  I wasn't hitting the gym at all or even doing exercises at home.  I'd be on the computer alot if it was gaming or trying to do some self studying on whatever I was interested at the time, which I spent a good deal learning and playing with networking and linux.  I never worried about my weight, why would I.  I seemed to have more trouble putting it on than keeping it off, but this all changed as I neared my 30s.
+
+ Once I fully started a job and was working quite a bit and I'd find myself able to go out and get fast food more often.  Also, I had this crazy Idea that it was required I'd eat 3 meals a day to make sure I maintained a _fast_ metabolism.  I noticed around age 28 I started to plump up a bit and at first I brushed it off as I just need to hit the gym.  So I tried, but like normal I was inconsistence and there was life things that I thought took priority over my health and well being.

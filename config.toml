@@ -15,7 +15,7 @@ paginate = 10
 	description = "Zero Carb, One Meal A Day, Carnivore, Meat Eating, Eat to Live, Meat Heals"
 
 	# Format dates with Go's time formatting
-	date_format = "2018-09-01"
+	date_format = "2006-01-02"
 
 	# Add read time estimates in the format "X min read"
 	show_read_time = false
@@ -47,7 +47,7 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = "Zero Carb | One Meal A Day"
-		content = "Come back on 09/03/2018 at which time I will release my first blog post detailing the very beginning of my journey as well as future plans with this lifestyle."
+		content = "Take control of your life!"
 
 
 	[params.portfolio]
@@ -93,13 +93,13 @@ paginate = 10
 			description = "So many good nutrients in seafoods!"
 
 	[params.recentposts]
-		hide  = true
-		title = "Come back on 09/03/2018 at which time I will release my first blog post detailing the very beginning of my journey as well as future plans with this lifestyle."
+		hide  = false
+		title = "Recent Blog Posts"
 
 	[params.contact]
 		hide  = false
 		title = "Get In Touch"
-		content = "IF you have any questions about this site or what my intentions are feel free to e-mail me."
+		content = "If you have any questions about this site or what my intentions are feel free to e-mail me."
 
 		# This can be exact coordinates or a searchable address in google maps
 		#gmaps_address = "39.7889055,-120.5443524"
@@ -138,7 +138,7 @@ paginate = 10
 	url  = "/"
 	weight = 10
 
-#[[menu.main]]
-#	name = "Blog"
-#	url  = "post/"
-#	weight = 0
+[[menu.main]]
+	name = "Blog"
+	url  = "post/"
+	weight = 0
